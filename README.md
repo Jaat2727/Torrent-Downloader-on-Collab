@@ -4,6 +4,16 @@ This is a simple Python script for downloading torrents using magnet links in Go
 
 ## How to Use (Copy-Paste Ready)
 
+
+**IMPORTANT: Before you begin, change the Colab runtime type to GPU for potentially faster downloads (although it's not strictly required for this script to *function*, network speed is generally better on GPU runtimes).  To do this:**
+
+1.  **Click "Runtime" in the menu bar.**
+2.  **Select "Change runtime type".**
+3.  **Under "Hardware accelerator", choose "GPU".**
+4.  **Click "Save".**  (This will restart the Colab runtime.)
+
+Now, follow these steps:
+
 1.  **Install Dependencies:** Run this code in a Colab cell *before* running the main code:
 
      ```bash
