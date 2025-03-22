@@ -18,7 +18,7 @@ This is a simple Python script for downloading torrents using magnet links in Go
 2.  **Select "Change runtime type".**
 3.  **Under "Hardware accelerator", choose "GPU".**
 4.  **Click "Save".**  (This will restart the Colab runtime.)
-5.  If you want to skip creating a zip file and download it to your local storage after downloading instead you can mount your google drive using the code below and skip Skip the last step of creating a zip file, and you will find it in your drive directly after downloading. (Zipping was necessary if your file exceeds 15 GB, which is the limit Google Drive.)
+5.  **If you want to skip creating a zip file and download it to your local storage after downloading instead you can mount your google drive using the code below and skip Skip the last step of creating a zip file, and you will find it in your drive directly after downloading.** (Zipping was necessary if your file exceeds 15 GB, which is the limit Google Drive.)
     
 ```bash
 from google.colab import drive
@@ -39,7 +39,8 @@ Now, follow these steps:
 
 3.  **Copy the main code below** into a *new* Colab code cell.
 4.  **Replace the `MAGNET_LINK`** with your actual magnet link.
-5.  **Run the cell.**
+5.  **Replace the `DOWNLOAD_PATH = "/content/drive/MyDrive/MyDownloads"`** with  **`DOWNLOAD_PATH = "/content"`** if you are not using Google Drive for Downlaoding else its fine no need to chnge if have mounted your Google Drive .
+6.  **Run the cell.**
 
 ```python
 import asyncio
@@ -51,7 +52,7 @@ import threading
 
 # --- Configuration ---
 MAGNET_LINK = "magnet:?xt=urn:btih:YOUR_MAGNET_LINK_HERE"  # <--- REPLACE THIS!
-DOWNLOAD_PATH = "/content"  # Usually fine for Colab
+DOWNLOAD_PATH = "/content/drive/MyDrive/MyDownloads"  # Replace with your desired path
 MONITOR_INTERVAL = 5  # Seconds
 
 # Enable nested asyncio (REQUIRED for Colab)
