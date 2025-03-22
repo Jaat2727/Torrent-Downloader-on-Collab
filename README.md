@@ -23,8 +23,8 @@ do not worry about the error shown in image if it appears at last
 
 
 
-
-**IMPORTANT: Before you begin, change the Colab runtime type to GPU for potentially faster downloads (although it's not strictly required for this script to *function*, network speed is generally better on GPU runtimes).  To do this:**
+## IMPORTANT
+** Before you begin, change the Colab runtime type to GPU for potentially faster downloads (although it's not strictly required for this script to *function*, network speed is generally better on GPU runtimes).  To do this:**
 
 1.  **Click "Runtime" in the menu bar.**
 2.  **Select "Change runtime type".**
