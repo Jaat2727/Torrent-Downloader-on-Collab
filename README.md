@@ -9,6 +9,12 @@ This is a simple Python script for downloading torrents using magnet links in Go
 
 ## Proof of Result
 ![image](https://github.com/user-attachments/assets/6d98e9b5-4338-42fa-87c9-e8c2c07c214b)
+![image](https://github.com/user-attachments/assets/54c43665-d7d2-4f2d-a73c-84983d73a3f8)
+![image](https://github.com/user-attachments/assets/d9a6d441-7181-4995-984e-00992e9f3488)
+
+
+
+
 
 
 
