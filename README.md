@@ -1,8 +1,15 @@
-# Simple Colab Torrent Downloader
+# Simple Colab Torrent Downloader (Please ⭐)
 
 This is a simple Python script for downloading torrents using magnet links in Google Colab. It includes progress monitoring and a keep-alive feature to prevent timeouts.
 
 ## How to Use (Copy-Paste Ready)
+
+This is a simple Python script for downloading torrents using magnet links in Google Colab. It includes progress monitoring and a keep-alive feature to prevent timeouts.
+ 
+
+## Proof of Result
+![image](https://github.com/user-attachments/assets/6d98e9b5-4338-42fa-87c9-e8c2c07c214b)
+
 
 
 **IMPORTANT: Before you begin, change the Colab runtime type to GPU for potentially faster downloads (although it's not strictly required for this script to *function*, network speed is generally better on GPU runtimes).  To do this:**
@@ -11,6 +18,12 @@ This is a simple Python script for downloading torrents using magnet links in Go
 2.  **Select "Change runtime type".**
 3.  **Under "Hardware accelerator", choose "GPU".**
 4.  **Click "Save".**  (This will restart the Colab runtime.)
+5.  If you want to skip creating a zip file and download it to your local storage after downloading instead you can mount your google drive using the code below and skip Skip the last step of creating a zip file, and you will find it in your drive directly after downloading. (Zipping was necessary if your file exceeds 15 GB, which is the limit Google Drive.)
+    
+```bash
+from google.colab import drive
+drive.mount('/content/drive')
+```
 
 Now, follow these steps:
 
