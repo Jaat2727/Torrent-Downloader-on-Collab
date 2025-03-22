@@ -12,9 +12,11 @@ This is a simple Python script for downloading torrents using magnet links in Go
 ![image](https://github.com/user-attachments/assets/54c43665-d7d2-4f2d-a73c-84983d73a3f8)
 ![image](https://github.com/user-attachments/assets/d9a6d441-7181-4995-984e-00992e9f3488)
 
-IF YOU SEE ANYTHING LIKE THE IMAGE BELOW NO NEED TO WORRY IF Download succesful is there there is no need to worry file will be there in your drive just wait for a minute or so it will be there in your drive according to file size
+If you see anything like the image below, there is no need to worry. If "Download successful" is displayed, the file will be in your drive. Just wait for a minute or so, and the file will appear in your drive according to its size.
+
 ![image](https://github.com/user-attachments/assets/1d726dd2-1968-4726-8074-ead912babae2)
-do not worry about the error 
+
+do not worry about the error shown in image if it appears at last  
 
 
 
