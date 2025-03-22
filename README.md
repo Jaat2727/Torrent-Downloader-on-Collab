@@ -1,4 +1,4 @@
-# Simple Colab Torrent Downloader (Please ⭐)
+# Colab Torrent Downloader (Please ⭐)
 
 This is a simple Python script for downloading torrents using magnet links in Google Colab. It includes progress monitoring and a keep-alive feature to prevent timeouts.
 
@@ -156,3 +156,14 @@ files.download('/content/downloaded_files.zip')
 ```
 
 or you can download manually from content folder
+
+
+## 🔐 Safe or Not? ✅
+
+This is a simple Python script for downloading torrents using magnet links in Google Colab. It includes progress monitoring and a keep-alive feature to prevent timeouts.
+ 
+##🔐 Safe or Not? ✅
+1.  **Don't Worry! No data will be shared with anyone, if you use the Original code.🔒**
+2.  **This code do not share even a single piece of data to any third party source and not create any log of that!🔑**
+3.  **Under "Do not trust any other copy of this Code.📚".**
+
