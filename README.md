@@ -1,10 +1,11 @@
 # Colab Torrent Downloader (Please ⭐)
 
 This is a simple Python script for downloading torrents using magnet links in Google Colab. It includes progress monitoring and a keep-alive feature to prevent timeouts.
+⭐⭐ Looking to supercharge download speeds from slow servers? Check out:  [Accelerate-Slow-Downloads](https://github.com/Jaat2727/Accelerate-Slow-Downloads)⭐⭐
 
-## ⭐⭐ Looking to supercharge download speeds from slow servers? Check out:  [Accelerate-Slow-Downloads](https://github.com/Jaat2727/Accelerate-Slow-Downloads)⭐⭐
 
-## How to Use (Copy-Paste Ready)
+
+## Use this link to open in collab or follow the steps below to crete yourself [Torrent Downloader.ipynb ](https://colab.research.google.com/github/Jaat2727/Torrent-Downloader-on-Collab-To-Google-Drive/blob/main/TORRENT_DOWNLOADER.ipynb) 
 
 This is a simple Python script for downloading torrents using magnet links in Google Colab. It includes progress monitoring and a keep-alive feature to prevent timeouts.
  
