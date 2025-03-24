@@ -2,6 +2,8 @@
 
 This is a simple Python script for downloading torrents using magnet links in Google Colab. It includes progress monitoring and a keep-alive feature to prevent timeouts.
 
+## ⭐⭐ Looking to supercharge download speeds from slow servers? Check out:  [Accelerate-Slow-Downloads](https://github.com/Jaat2727/Accelerate-Slow-Downloads)⭐⭐
+
 ## How to Use (Copy-Paste Ready)
 
 This is a simple Python script for downloading torrents using magnet links in Google Colab. It includes progress monitoring and a keep-alive feature to prevent timeouts.
