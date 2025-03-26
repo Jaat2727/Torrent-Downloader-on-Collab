@@ -4,7 +4,7 @@ This is a simple Python script for downloading torrents using magnet links in Go
 ⭐⭐ Looking to supercharge download speeds from slow servers? Check out:  [Accelerate-Slow-Downloads](https://github.com/Jaat2727/Accelerate-Slow-Downloads)⭐⭐
 
 
-## ⭐⭐ [Open the Colab Notebook Directly](https://colab.research.google.com/github/Jaat2727/Torrent-Downloader-on-Collab-To-Google-Drive/blob/main/TORRENT_DOWNLOADER.ipynb) ⭐⭐
+## ⭐⭐ [Open the Colab Notebook Directly](https://colab.research.google.com/github/Jaat2727/Torrent-Downloader-on-Collab-To-Google-Drive/blob/main/Best_Simple_TORRENT_DOWNLOADER.ipynb) ⭐⭐
 
 
 
